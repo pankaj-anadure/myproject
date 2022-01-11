@@ -2,7 +2,7 @@ public class Login
 {
 	public void changePassword()
 	{
-		System.out.println("Implement change password logic");
+		System.out.println("Change Password implementation");
 	}
 	public void login()
 	{
